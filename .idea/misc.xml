@@ -3,4 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="Python 3.12 (alice_geo_quiz)" />
   </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (alice_geo_quiz)" project-jdk-type="Python SDK" />
 </project>
